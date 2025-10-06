@@ -12,3 +12,5 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 - **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 - **Gold Layer**: In this layer ready data modeled into a star schema required for reporting and analytics.
 
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fb55d3b9-b26a-42fd-bccb-d052dcaef016" />
+Project Summary
